@@ -39,6 +39,6 @@ The capability of pipelines can be summarized as:
 3. Comparative genomics results (gene synteny) from inter-species comparisons
 
 
-A schematic workflow of integrated analyis was shown:
+A schematic workflow of integrated analysis was shown:
 ![MODs_pipeline](https://user-images.githubusercontent.com/69836931/121089630-72904e80-c7b5-11eb-9b87-c3a36dc83bac.png)
 
